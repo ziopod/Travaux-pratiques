@@ -6,8 +6,8 @@ Dans cet exercice, vous devrez concevoir une grille web CSS afin de présenter
 de manière simple et lisible un contenu sous plusieurs plateformes (smartphone,
 tablette et écran de portable ou de bureau).
 
-Veillez à produire un code conçis en respectant les principes [KISS](https://en.wikipedia.org/wiki/KISS_principle) et [DRY](https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas).
-Pour conserver une bonne tenu du code, il est recommander d'appliquer
+Veillez à produire un code concis en respectant les principes [KISS](https://en.wikipedia.org/wiki/KISS_principle) et [DRY](https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas).
+Pour conserver une bonne tenue du code, il est recommandé d'appliquer
 les conventions d'écriture [SMACSS](https://smacss.com/) et [Codeguide](http://codeguide.co/).
 
 Vous devez aborder la conception en commençant par considérer la plateforme
@@ -77,7 +77,7 @@ En voici un exemple
 À vous de compléter le contenu, un minimum de 6 entrées est demandé.
 
 ## La grille
-La grille seras conçues avec le méthode du flottant avec colonnes fluides, pour cela les règles
+La grille seras conçues avec la méthode du flottant avec colonnes fluides, pour cela les règles
 CSS suivantes devront être utilisées :
 
 **Le conteneur**, servant à centrer le contenu dans la fenêtre du navigateur.
@@ -112,12 +112,12 @@ Un **utilitaire** de désamorçage de flottant.
 
 ## Rendu adaptatif
 
-La page devras être adptative avec l'usage des medias queries. Cela passeras
+La page devras être adptative avec l'usage des medias queries. Cela passera
 par la gestion de la largeur du conteneur (wrapper) et de l'application de
 diverses tailles de colonnes aux éléments HTML en fonction de l'espace
 d'affichage disponible.
 
-Il est demandé de rendre la page adpatable au largeurs d'écrans suivantes : 
+Il est demandé de rendre la page adpatable aux largeurs d'écrans suivantes : 
 
  - smartphone,
  - écrans de tablettes,
@@ -176,13 +176,13 @@ Plusieurs méthodes peuvent utiliser afin de gérer les définitions de colonnes
 (fluide, fixe, semantique, …). Nous utiliserons la méthode la plus simple à mettre
 en œuvre : les colonnes fluides appliqués par classes CSS.
 
-Les largeur seront exprimés en pourcentage, dune valeur equivalent à `100 /
+Les largeurs seront exprimés en pourcentage, d'une valeur equivalent à `100 /
 grid-system * column-numbers`. Par exemple pour une colonne correspondant au
 deux tiers (4 colonnes) d'un sytème de grille de 6 colonnes, nous calculerons :
 
 	100 / 6 * 4 = 66,667
 
-Ce qui nous donneras une définition de colonne comme ceci : 
+Ce qui donnera une définition de colonne comme ceci : 
 
 	.column-4-6 { width: 66.667%; }
 
@@ -200,15 +200,15 @@ Puis, pour les tailles d'écrans supérieurs, nous déclencherons un système de
 		.column-3-3 { width: 100%; }
 	}
 
-Ainsi pour definir un bloc d'une demi largeur pour mobile et de deux tiers
-pour tablette, il suffiras de déclarer dans notre structure HTML :
+Ainsi pour definir un bloc d'une demi-largeur pour mobile et de deux tiers
+pour tablette, il suffira de déclarer dans notre structure HTML :
 
 	<div class="column column-1-2 column-2-3">
 		…
 	</div>
 
-Vous remarquerez que certaines déclaration de classes appliquent exactement
-les même propriétes et valeurs CSS, elle devrons bien entendu les regrouper
+Vous remarquerez que certaines déclarations de classes appliquent exactement
+les mêmes propriétes et valeurs CSS, elle devront être regroupées
 afin d'optimiser le code.
 
 À vous de completer et d'appliquer le reste du système de grille.
