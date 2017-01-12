@@ -187,7 +187,7 @@ Ce qui nous donneras une définition de colonne comme ceci :
 	.column-4-6 { width: 66.667%; }
 
 Il s'agit de déclarer en premier lieu les colonnes pour les supports mobiles
-(moblie first), un système de grille de 2 colonne est généralement suffisant :
+(moblie first), un système de grille de 2 colonnes est généralement suffisant :
 
 	.column-1-2 { width: 50%;}
 	.column-2-2 { width: 100%;}
