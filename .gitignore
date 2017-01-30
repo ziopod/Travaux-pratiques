@@ -1,4 +1,5 @@
 # Project specific #
+private_*
 draft_*
 *.xmp
 
