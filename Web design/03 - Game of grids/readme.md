@@ -103,9 +103,11 @@ L'**initialisation** d'une colonne.
 		width: 50%;
 	}
 
-Un **utilitaire** de désamorçage de flottant.
+Un **utilitaire** de désamorçage de flottant (si besoin), selon [le clearfix de Thierry Koblentz](http://cssmojo.com/the-very-latest-clearfix-reloaded/).
 
-	.clear {
+	.clearfix:after {
+		content: " ";
+		display: table;
 		clear: both;
 	}
 
