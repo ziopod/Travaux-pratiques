@@ -6,6 +6,12 @@ Dans cet exercice, vous devrez concevoir une grille web CSS afin de présenter
 de manière simple et lisible un contenu sous plusieurs plateformes (smartphone,
 tablette et écran de portable ou de bureau).
 
+Il s'agit d'un système de grille moderne (2016) en accord avec les recommnadation du W3C, compatible avec les navigateurs suivants : 
+ 
+| Chrome | Firefox | Edge | Internet Explorer | Opéra | Safari |
+| 1.0+   | 3.5+    | Oui  | 9+                | 9+    | 4+     |
+
+
 Veillez à produire un code concis en respectant les principes [KISS](https://en.wikipedia.org/wiki/KISS_principle) et [DRY](https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas).
 Pour conserver une bonne tenue du code, il est recommandé d'appliquer
 les conventions d'écriture [SMACSS](https://smacss.com/) et [Codeguide](http://codeguide.co/).
