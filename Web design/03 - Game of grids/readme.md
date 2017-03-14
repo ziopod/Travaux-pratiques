@@ -68,9 +68,8 @@ En voici un exemple
 			</li>
 		</ul>
 		<dl>
-			<dt>></dt>
 			<dt>Devise de la maisons Stark</dt>
-			<dl>« L'hiver vient »</dl>
+			<dd>« L'hiver vient »</dd>
 		</dl>
 	</article>
 
