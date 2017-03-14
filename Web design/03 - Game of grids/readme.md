@@ -87,11 +87,12 @@ CSS suivantes devront être utilisées :
 
 **Le conteneur**, servant à centrer le contenu dans la fenêtre du navigateur.
 
- 	.wrapper {
- 		width: 100%;
- 		margin-left: auto;
- 		margin-right: auto;
- 	}
+	.wrapper {
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		clear: left;
+	}
 
 L'**initialisation** d'une colonne.
 
