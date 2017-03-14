@@ -103,7 +103,7 @@ L'**initialisation** d'une colonne.
 		width: 50%;
 	}
 
-Un **utilitaire** de désamorçage de flottant (si besoin), selon [le clearfix de Thierry Koblentz](http://cssmojo.com/the-very-latest-clearfix-reloaded/).
+Si besoin, un **utilitaire** de désamorçage de flottant à appliquer sur les conteneurs (si besoin). Méthode [clearfix de Thierry Koblentz](http://cssmojo.com/the-very-latest-clearfix-reloaded/).
 
 	.clearfix:after {
 		content: " ";
@@ -190,8 +190,8 @@ Ce qui donnera une définition de colonne comme ceci :
 Il s'agit de déclarer en premier lieu les colonnes pour les supports mobiles
 (moblie first), un système de grille de 2 colonnes est généralement suffisant :
 
-	.column-1-2 { width: 50%;}
-	.column-2-2 { width: 100%;}
+	.column-1-2 { width: 50%; }
+	.column-2-2 { width: 100%; }
 
 Puis, pour les tailles d'écrans supérieurs, nous déclencherons un système de grille de 3 :
 
