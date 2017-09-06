@@ -110,6 +110,17 @@ L'**initialisation** d'une colonne.
 		width: 50%;
 	}
 
+**Forcer le retour à la ligne** d'une "cellule" de colonne.
+	
+	@media ()
+	{
+		.column-1-2:nth-child()
+		{
+
+		}
+	}
+		
+
 Si besoin, un **utilitaire** de désamorçage de flottant à appliquer sur les conteneurs (si besoin). Méthode [clearfix de Thierry Koblentz](http://cssmojo.com/the-very-latest-clearfix-reloaded/).
 
 	.clearfix:after {
