@@ -1,14 +1,24 @@
 # Les tuiles graphiques
 
 
-Formalisez des pistes d'identités graphiques pour le futur webdesign d'un petit site publiant des romans de science-fiction. 
+Formalisez des pistes de design graphiques sous forme de tuiles graphiques pour le futur webdesign d'un petit site publiant des romans de science-fiction. 
 
 Le site sera composé d'une page d'accueil mettant en valeur certains contenus, d'un index d'entrées des données du site (livres de science-fiction), d'une page détaillant un livre, d'une page de résultat de recherches et d'une page "à propos".
 
+## Connaissances requises
 
+ - gestion des fichiers et dossiers;
+ - connaissances de base sur la composition graphique;
+ - connaissances de base d'un outil de composition graphique;
+ - l'usage des tuiles graphiques.
+
+## Objectifs
+ 
+Mettre en œuvre et valider les connaissanes sur l'outil de composition graphique et sur la capacité à proposer des déclinaisons de pistes graphiques de futurs designs.
+ 
 ## Consignes
 
-Produire une ou plusieurs tuiles graphiques en respectant les consignes suivantes. N'hésitez-pas à demander plus de précision sur les consignes si besoin.
+Produire une ou plusieurs tuiles graphiques en respectant les consignes suivantes. N'hésitez-pas à demander plus de précision si les consignes ne vous parraissent pas claires.
 
  - création d'un dépôt spécifique à cet exercice sur Github.com;
  - dossiers et fichiers de votre projet nommés de façon explicite;
