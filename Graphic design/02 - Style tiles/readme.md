@@ -14,7 +14,7 @@ Le site sera composé d'une page d'accueil mettant en valeur certains contenus, 
 
 ## Objectifs
  
-Mettre en œuvre et valider les connaissanes sur l'outil de composition graphique et sur la capacité à proposer des déclinaisons de pistes graphiques de futurs designs.
+Mettre en œuvre et valider les connaissances sur l'outil de composition graphique et sur la capacité à proposer des déclinaisons de pistes graphiques de futurs designs.
  
 ## Consignes
 
@@ -25,7 +25,6 @@ Produire une ou plusieurs tuiles graphiques en respectant les consignes suivante
  1. création d'un **dépôt spécifique** à cet exercice sur Github.com;
  2. dossiers et fichiers de votre projet nommés de façon explicite;
  3. produire un fichier explicatif "readme.md".
-
 
 ### Le fichier "readme.md" à la racine du projet
 
@@ -47,5 +46,6 @@ Produire une ou plusieurs tuiles graphiques en respectant les consignes suivante
 
 Vous êtes libre de compléter ou de varier le contenu. Comme votre exercice sera publié, prenez garde aux informations privées et aux licences de droit d'auteur.
 
- - contenu : [une entrée type du site](Les cavernes d'acier.md),
- - les tuiles graphiques : <http://styletil.es>.
+ - contenu : [une entrée type du site](Les cavernes d'acier.md);
+ - les tuiles graphiques : <http://styletil.es>;
+ - inspirations et curation : [webcreme.com](http://www.webcreme.com/), [dribbble.com](https://dribbble.com/), [ilovetypography.com](http://ilovetypography.com/), etc.
