@@ -1,6 +1,6 @@
 # Les cavernes d'acier
 
-![Visuel de la calculatrice mécanique Brunsviga 800](https://upload.wikimedia.org/wikipedia/commons/b/b2/Mechanical-calculator-Brunsviga-800-02.jpg)
+![Visuel de la calculatrice mécanique Brunsviga 800](images/Mechanical-calculator-Brunsviga-800-02.jpg)
 
 Crédit photo : CEphoto, [Uwe Aranas](https://commons.wikimedia.org/wiki/User:Cccefalon), Licence [cc BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
