@@ -36,7 +36,7 @@ De cette façon nos distingerons le code personnalisé (celui que l'on vas régu
 
 Néanmoins, si vous avez vraiment besoins d'apporter des améliorations ou des corrections au code source d'une librairie, vous pouvez surclasser le fichier avec votre propre code dans un fichier séparé (en dehors de `librairies`) ou encore mieux, proposer l'amélioration aux personnes en charge de la publication de la librairie en question.
 
-Le dossier contenant **des éléments rapportés à une page** spécifique devrons êtres placés dans un dossier portant le nom de la page. C'est le cas du médias `index/unicorn.gif` qui devras être affiché dans la page `index.html`.
+Le dossier contenant **des éléments rapportés à une page** spécifique devrons êtres placés dans un dossier portant le nom de la page. PAr exemple, cela sera le cas de votre média image à ajouter sur la page d'index, le fichier devra être stocké dans le dossier `index/unicorn.gif`.
 
 L'organisation d'un projet peut varier en fonction des technologies ou des méthodes choisies par l'équipes de développement. Bien que le simple bon sens et l'expérience permettent de mettre au point une méthode  d'organisation efficace pour des petites projets; vous serez probalement amener à travailler sur des projets existants, il est donc important de ne pas trop dépendre d'une méthode d'organisation particulière, d'être curieux et de savoir s'adapter.
 
@@ -58,7 +58,7 @@ Indiquez :
 
 ## Le contenu
 
-Présentez le contenu texte du fichier "[La Licorne.txt](La Licorne.txt)", y inclure le fichier média "unicorn.gif" sans omettre de mentionner l'auteur du média et les conditions de partage.
+Présentez le contenu texte du fichier "[La Licorne.txt](La Licorne.txt)", y inclure un fichier média image sans omettre de mentionner l'auteur du média et les conditions de partage.
 
 ## Feuille de style
 
