@@ -16,15 +16,15 @@ Un site internet est composé de multiple fichiers, leurs nombre augmenteras en 
 
 Une des permière chose à appliquer est de réspecter la sépartion des langage afin de simplifier l'évolution, et la maintenance du projet. Pour notre projet nous allons distinguer les différents composants de cette manière : 
 
-	- index.html
-	- assets
-		- css
-			- master.css
-			- librairies
-				- reset.css
-	- index
-		- medias
-			- unicorn.gif
+  - index.html
+  - assets
+    - css
+      - master.css
+      - librairies
+        - reset.css
+  - index
+    - medias
+      - unicorn.gif
 
 Vous remarquez **le dossier** `assets`, celui-ci contiendras tout les ressources nécessaire à l'affichage et au fonctionnement du site.
 
