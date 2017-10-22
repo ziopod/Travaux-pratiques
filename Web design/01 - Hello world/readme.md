@@ -21,9 +21,8 @@ Une des permière chose à appliquer est de réspecter la sépartion des langage
   - assets
     - css
       - master.css
-    - font
-      - libre-baskerville.css
-      - libraries
+      - fonts
+        - libre-baskerville.css
         - libre-baskerville
             - LibreBaskervilleRegular.eot
             - LibreBaskervilleRegular.svg
@@ -37,11 +36,7 @@ Une des permière chose à appliquer est de réspecter la sépartion des langage
 
 Vous remarquez **le dossier** `assets`, celui-ci contiendras tout les ressources nécessaire à l'affichage et au fonctionnement du site.
 
-Dans notre cas il contient un dossier `CSS` pour notre feuille de style principale et un dossier `fonts`qui contiendras une [definition de notre police de caractère](https://developer.mozilla.org/fr/docs/Web/CSS/@font-face) et un sous-dossier `librairies` qui nos jeux de fontes de caractères dans divers formats.
-
-De cette façon nos distingerons le code personnalisé (celui que l'on vas régulièrement modifier) du code provenant de librairies tierces (le code de provenant de librairies tierces ne doit en aucun cas être modifié au sein de notre projet).
-
-Néanmoins, si vous avez vraiment besoins d'apporter des améliorations ou des corrections au code source d'une librairie, vous pouvez surclasser le fichier avec votre propre code dans un fichier séparé (en dehors de `librairies`) ou encore mieux, proposer l'amélioration aux personnes en charge de la publication de la librairie en question.
+Dans notre cas il contient un dossier `CSS` pour notre feuille de style principale et un sous-dossier `fonts`qui contiendras nos jeux de fontes de caractères dans divers formats. La feuille de style `libre-baskerville.css` est une [definition de notre police de caractère](https://developer.mozilla.org/fr/docs/Web/CSS/@font-face).
 
 Le dossier contenant **des éléments rapportés à une page** spécifique devrons êtres placés dans un dossier portant le nom de la page. Par exemple, cela sera le cas de votre média image à ajouter sur la page d'index, le fichier devra être stocké dans le dossier `index/unicorn.gif`.
 
