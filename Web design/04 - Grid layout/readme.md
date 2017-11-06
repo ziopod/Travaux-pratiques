@@ -1,4 +1,13 @@
 # Grid Layout
+
+Conservez une grille colorée adaptable pour les écrans suivants :
+
+- mobile first
+- mobile > 640px
+- tablette format paysage > 768px
+- petits écrans > 1024px
+- écrans normaux > 1280px
+
 ## Ressources
 
  - [Modèle de disposition en grille](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout)
