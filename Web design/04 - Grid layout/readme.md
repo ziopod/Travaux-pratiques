@@ -8,6 +8,16 @@ Conservez une grille colorée adaptable pour les écrans suivants :
 - petits écrans > 1024px
 - écrans normaux > 1280px
 
+## Les propriétés CSS
+
+Les propriétés CSS à exploiter dans cet exercice sont : 
+
+ - [`display: grid`](https://developer.mozilla.org/fr/docs/Web/CSS/display) activer le mode d'affichage en grille
+ - [`grid-template-areas`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-template-areas) spécifier la disposition des zones nommées
+ - [`grid-template-columns`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-template-columns) définie la taille des colonnes (avec l'unité de mesure de fraction de page `fr` de préférence)
+ - [`grid-area`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-area) attribuer une zone du template à un élément HTML
+ 
+
 ## Meta 
 
 Afin d'éviter des problèmes de rendu de pages, il est important d'ajouter les deux métadonnées suivantes. 
