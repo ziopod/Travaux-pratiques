@@ -8,6 +8,23 @@ Conservez une grille colorée adaptable pour les écrans suivants :
 - petits écrans > 1024px
 - écrans normaux > 1280px
 
+## Meta 
+
+Afin d'éviter des problèmes de rendu de pages, il est important d'ajouter les deux métadonnées suivantes. 
+
+La méta non stantard `viewport`, permet de spécifier aux terminaux mobile des préférences de taille de vue virutelle (viewport). La valeur `width` permet de spécifier une largeur de vue équivalente à celle du support (`device-width`); `initial-scale` définit le ratio entre la taille d'écran du mobile et la taille de la vue virtuelle.
+
+~~~
+<meta name="viewport" content="width=device-width, initial-scale=1">
+~~~
+
+La méta `HTTP-equiv` `x-ua-compatible`, permet d'indiquer aux agents utilisateurs le moteur de rendu de page désiré. En l'occurence, on indique à Internet Explorer (IE) d'utiliser le moteur de rendu Edge.
+
+~~~
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+~~~
+
+
 ## Ressources
 
  - [Modèle de disposition en grille](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout)
@@ -16,3 +33,4 @@ Conservez une grille colorée adaptable pour les écrans suivants :
  - [Flexbox ou Grid Layout?](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Mod%C3%A8le_de_grille_et_autres_mod%C3%A8les_de_disposition)
  - [Apprendre Grid Layout en s'amusant](http://cssgridgarden.com/)
  - [Apprendre Flexbox en s'amusant](http://flexboxfroggy.com/)
+ - [Les balises meta](https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
