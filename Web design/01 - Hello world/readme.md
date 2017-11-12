@@ -84,3 +84,4 @@ Pour intégrer vos définitions de polices de caractères, vous exploiter [la di
  - [Définir une police de caractère](https://developer.mozilla.org/fr/docs/Web/CSS/@font-face)
  - [Convertir une police de caractère dans divers format](https://everythingfonts.com/font-face)
  - [Chargement dynamique de polices de caractères](https://www.filamentgroup.com/lab/font-events.html)
+ - [Apprendre les sélecteurs CSS en s'amusant](https://flukeout.github.io/)
