@@ -21,7 +21,7 @@ Les propriétés CSS à exploiter dans cet exercice sont :
 
 Voici un exemple de grille de 3 colonnes avec des zones nommées.
 
-~~~
+~~~ css
 /** Définition de la grille **/
 .wrapper {
 	display: grid;
@@ -47,13 +47,13 @@ Afin d'éviter des problèmes de rendu de pages, il est important d'ajouter les 
 
 La méta non stantard `viewport`, permet de spécifier aux terminaux mobile des préférences de taille de vue virutelle (viewport). La valeur `width` permet de spécifier une largeur de vue équivalente à celle du support (`device-width`); `initial-scale` définit le ratio entre la taille d'écran du mobile et la taille de la vue virtuelle.
 
-~~~
+~~~ html
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ~~~
 
 La méta `HTTP-equiv` `x-ua-compatible`, permet d'indiquer aux agents utilisateurs le moteur de rendu de page désiré. En l'occurence, on indique à Internet Explorer (IE) d'utiliser le moteur de rendu Edge.
 
-~~~
+~~~ html
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 ~~~
 
