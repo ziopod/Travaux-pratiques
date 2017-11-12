@@ -1,6 +1,6 @@
 # Grid Layout
 
-Conservez une grille colorée adaptable pour les écrans suivants :
+Concevez une grille colorée adaptable pour les écrans suivants :
 
 - mobile first
 - mobile > 640px
