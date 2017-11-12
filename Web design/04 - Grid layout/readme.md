@@ -17,6 +17,29 @@ Les propriétés CSS à exploiter dans cet exercice sont :
  - [`grid-template-columns`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-template-columns) définie la taille des colonnes (avec l'unité de mesure de fraction de page `fr` de préférence)
  - [`grid-area`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-area) attribuer une zone du template à un élément HTML
  
+### Exemple
+
+Voici un exemple de grille de 3 colonnes avec des zones nommées.
+
+~~~
+/** Définition de la grille **/
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-areas:
+	"header navigation navigation"
+	"content content aside"
+	"footer footer footer"
+	;
+}
+
+/** Attribution des zones de la grille **/
+.main-header { grid-area: header; }
+.main-navigation { grid-area: navigation; }
+.content { grid-area: content; }
+.ads { grid-area: aside; }
+.main-footer {grid-area: footer;}
+~~~
 
 ## Meta 
 
