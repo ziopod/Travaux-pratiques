@@ -60,6 +60,7 @@ La méta `HTTP-equiv` `x-ua-compatible`, permet d'indiquer aux agents utilisateu
 
 ## Ressources
 
+### Les grilles
  - [Modèle de disposition en grille](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout)
  - https://gridbyexample.com/
  - [Inspecteur de grille de Firefox](https://developer.mozilla.org/fr/docs/Outils/Inspecteur/Comment/Examine_grid_layouts)
@@ -67,3 +68,19 @@ La méta `HTTP-equiv` `x-ua-compatible`, permet d'indiquer aux agents utilisateu
  - [Apprendre Grid Layout en s'amusant](http://cssgridgarden.com/)
  - [Apprendre Flexbox en s'amusant](http://flexboxfroggy.com/)
  - [Les balises meta](https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
+ 
+### Inspirations graphique
+
+#### Cubiste, abstrait
+ - [Robert Delaunay]](https://fr.wikipedia.org/wiki/Robert_Delaunay), [œuvres de Delaunay](http://www.artnet.fr/artistes/robert-delaunay/);
+ - [Hilma af Klint](https://en.wikipedia.org/wiki/Hilma_af_Klint), [œuvres de Klint](https://commons.wikimedia.org/wiki/Category:Paintings_by_Hilma_af_Klint);
+ - [Otto Freundlich](https://fr.wikipedia.org/wiki/Otto_Freundlich), [œuvres de Freundlich](https://commons.wikimedia.org/wiki/Category:Otto_Freundlich?uselang=fr).
+ 
+#### Arts concret
+ - [Max Bill](https://fr.wikipedia.org/wiki/Max_Bill), [œuvres de Bill](http://www.artnet.fr/artistes/max-bill/).
+ 
+#### Neoplasticisme
+- [Theo van Doesburg](https://fr.wikipedia.org/wiki/Theo_van_Doesburg), [œuvres de Doesburg](http://www.artnet.fr/artistes/theo-van-doesburg/);
+- [Aurélie Nemours](https://fr.wikipedia.org/wiki/Aur%C3%A9lie_Nemours), [œuvres de Némours](http://www.artnet.fr/artistes/aur%C3%A9lie-nemours/);
+- [Piet Mondrian](https://fr.wikipedia.org/wiki/Piet_Mondrian), [œuvres de Mondrian](http://www.artnet.fr/artistes/piet-mondrian/).
+
