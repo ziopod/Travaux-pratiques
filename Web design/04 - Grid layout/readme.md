@@ -61,13 +61,13 @@ La méta `HTTP-equiv` `x-ua-compatible`, permet d'indiquer aux agents utilisateu
 ## Ressources
 
 ### Les grilles
- - [Modèle de disposition en grille](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout)
- - https://gridbyexample.com/
- - [Inspecteur de grille de Firefox](https://developer.mozilla.org/fr/docs/Outils/Inspecteur/Comment/Examine_grid_layouts)
- - [Flexbox ou Grid Layout?](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Mod%C3%A8le_de_grille_et_autres_mod%C3%A8les_de_disposition)
- - [Apprendre Grid Layout en s'amusant](http://cssgridgarden.com/)
- - [Apprendre Flexbox en s'amusant](http://flexboxfroggy.com/)
- - [Les balises meta](https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta)
+ - [Modèle de disposition en grille](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout);
+ - [Les grilles par l'exemple](https://gridbyexample.com/)
+ - [Inspecteur de grille de Firefox](https://developer.mozilla.org/fr/docs/Outils/Inspecteur/Comment/Examine_grid_layouts);
+ - [Flexbox ou Grid Layout?](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout/Mod%C3%A8le_de_grille_et_autres_mod%C3%A8les_de_disposition);
+ - [Apprendre Grid Layout en s'amusant](http://cssgridgarden.com/);
+ - [Apprendre Flexbox en s'amusant](http://flexboxfroggy.com/);
+ - [Les balises meta](https://developer.mozilla.org/fr/docs/Web/HTML/Element/meta).
  
 ### Inspirations graphique
 
