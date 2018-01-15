@@ -72,7 +72,7 @@ La méta `HTTP-equiv` `x-ua-compatible`, permet d'indiquer aux agents utilisateu
 ### Inspirations graphique
 
 #### Cubiste, abstrait
- - [Robert Delaunay]](https://fr.wikipedia.org/wiki/Robert_Delaunay), [œuvres de Delaunay](http://www.artnet.fr/artistes/robert-delaunay/);
+ - [Robert Delaunay](https://fr.wikipedia.org/wiki/Robert_Delaunay), [œuvres de Delaunay](http://www.artnet.fr/artistes/robert-delaunay/);
  - [Hilma af Klint](https://en.wikipedia.org/wiki/Hilma_af_Klint), [œuvres de Klint](https://commons.wikimedia.org/wiki/Category:Paintings_by_Hilma_af_Klint);
  - [Otto Freundlich](https://fr.wikipedia.org/wiki/Otto_Freundlich), [œuvres de Freundlich](https://commons.wikimedia.org/wiki/Category:Otto_Freundlich?uselang=fr).
  
